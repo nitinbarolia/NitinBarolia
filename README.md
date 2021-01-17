@@ -1,5 +1,5 @@
 ### Fellas its Nitin here.. 👋
-## I am a Data Analyst|Data Scientist|Ml & AI practitioner
+## I am a Data Analyst | Data Scientist | Ml & AI practitioner
 
 ![picture](https://1.bp.blogspot.com/-aTMcmCnhWrw/YARun83GNuI/AAAAAAAAEc4/Gl2eL9h-StA376VMKIw29qeP7GTjmtBqACLcBGAsYHQ/s800/giphy.gif)
 
