@@ -1,7 +1,7 @@
 ### Fellas its Nitin here.. 👋
 ## I am a Data Analyst | Data Scientist | Ml & AI practitioner
 
-![picture](https://1.bp.blogspot.com/-aTMcmCnhWrw/YARun83GNuI/AAAAAAAAEc4/Gl2eL9h-StA376VMKIw29qeP7GTjmtBqACLcBGAsYHQ/s800/giphy.gif)
+![picture](https://1.bp.blogspot.com/-FYDRV1fAcNk/YAU_khQw0iI/AAAAAAAAEdE/bZyU5seo4ospnb85PlEzlQDG2cB1l79vQCLcBGAsYHQ/s480/rt.gif)
 
 
 - 🔭 I’m currently working with Innodata as Freelancer
