@@ -1,9 +1,15 @@
 ### Fellas its :smile: Nitin :smile: here.. 👋
+**=====================================================================================**
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------**
 ## I am a Data Analyst | Data Scientist | Ml & AI practitioner
 
 ![picture](https://1.bp.blogspot.com/-FYDRV1fAcNk/YAU_khQw0iI/AAAAAAAAEdE/bZyU5seo4ospnb85PlEzlQDG2cB1l79vQCLcBGAsYHQ/s480/rt.gif)
 
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------**
+
+**=====================================================================================**
 - 🔭 I’m currently working with Innodata as Freelancer
 - 🌱 I’m currently learning ML and AI
 - 👯 I’m looking to collaborate on ...
@@ -12,6 +18,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin-barolia-912422109/)
 - 😄 Pronouns: He😄
 - ⚡ Fun fact: love binge-watching.
+
+
+
+
+**=====================================================================================**
+
 
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
@@ -23,6 +35,13 @@
 
 
 
+**=====================================================================================**
+
 
 
 ## Projects![picture](https://1.bp.blogspot.com/-u6aJOZuJQLw/YAVYxYoe08I/AAAAAAAAEfs/HKp6UzAuCFgT5-KcbuuF2OGkkj6zKZLqwCLcBGAsYHQ/s128/group-of-projects%25282%2529.png)
+
+### 1- Sales Prediction Using PowerBI and MySQL
+### 2- Financial Analysis (Using Bank Loan Data) 
+### 3- EDA(exploratory data analysis) on IMBd Movies Data
+### Many more coming soon....
