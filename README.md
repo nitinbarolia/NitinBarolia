@@ -41,7 +41,7 @@
 
 ## Projects![picture](https://1.bp.blogspot.com/-u6aJOZuJQLw/YAVYxYoe08I/AAAAAAAAEfs/HKp6UzAuCFgT5-KcbuuF2OGkkj6zKZLqwCLcBGAsYHQ/s128/group-of-projects%25282%2529.png)
 
-### 1- Sales Prediction Using PowerBI and MySQL
+### 1- Sales Prediction Using PowerBI and MySQL [here](https://github.com/nitinbarolia/PowerBI)
 ### 2- Financial Analysis (Using Bank Loan Data) 
 ### 3- EDA(exploratory data analysis) on IMBd Movies Data
 ### Many more coming soon....
