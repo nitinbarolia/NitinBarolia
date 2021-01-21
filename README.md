@@ -42,6 +42,6 @@
 ## Projects![picture](https://1.bp.blogspot.com/-u6aJOZuJQLw/YAVYxYoe08I/AAAAAAAAEfs/HKp6UzAuCFgT5-KcbuuF2OGkkj6zKZLqwCLcBGAsYHQ/s128/group-of-projects%25282%2529.png)
 
 ### 1- Sales Prediction Using PowerBI and MySQL [here](https://github.com/nitinbarolia/PowerBI)
-### 2- Financial Analysis (Using Bank Loan Data) 
-### 3- EDA(exploratory data analysis) on IMBd Movies Data
+### 2- Financial Analysis (Using Bank Loan Data) [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/Financial%20analysis%20on%20bank%20loan%20data/Data_analytics_finance2(Bank_Loan)_Deploy.ipynb)
+### 3- EDA(exploratory data analysis) on IMBd Movies Data [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/EDA%20on%20movies%20data/Explanatory_Analysis_Movies.ipynb)
 ### Many more coming soon....
