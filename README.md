@@ -45,3 +45,5 @@
 ### 2- Financial Analysis (Using Bank Loan Data) [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/Financial%20analysis%20on%20bank%20loan%20data/Data_analytics_finance2(Bank_Loan)_Deploy.ipynb)
 ### 3- EDA(exploratory data analysis) on IMBd Movies Data [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/EDA%20on%20movies%20data/Explanatory_Analysis_Movies.ipynb)
 ### Many more coming soon....
+
+## Python Programs Fun2Learn [here](https://github.com/nitinbarolia/Python-Programs)
