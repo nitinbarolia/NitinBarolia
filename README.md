@@ -46,4 +46,16 @@
 ### 3- EDA(exploratory data analysis) on IMBd Movies Data [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/EDA%20on%20movies%20data/Explanatory_Analysis_Movies.ipynb)
 ### Many more coming soon....
 
-## Python Programs Fun2Learn [here](https://github.com/nitinbarolia/Python-Programs)
+**=====================================================================================**
+
+
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------**
+## Python Programs Fun2Learn [here](https://github.com/nitinbarolia/Python-Programs) ![picture](https://1.bp.blogspot.com/-ZUhPk3iDhBA/YBgq8DqycWI/AAAAAAAAEgs/ocTKDrEBSvw4GL8PVFlsOWe6cydBLbI1ACLcBGAsYHQ/s150/python.jpg) 
+
+
+**----------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+
+**=====================================================================================**
