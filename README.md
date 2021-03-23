@@ -10,7 +10,7 @@
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
 
 **=====================================================================================**
-- 🔭 I’m currently working with Innodata as Freelancer
+- 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning ML and AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for work opportunity in Data Science
