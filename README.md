@@ -2,7 +2,7 @@
 **=====================================================================================**
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
-## I am a Data Analyst | Data Scientist | Ml & AI practitioner
+## I am a Data Scientist | Ml & DL| 
 
 ![picture](https://1.bp.blogspot.com/-FYDRV1fAcNk/YAU_khQw0iI/AAAAAAAAEdE/bZyU5seo4ospnb85PlEzlQDG2cB1l79vQCLcBGAsYHQ/s480/rt.gif)
 
