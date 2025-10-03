@@ -1,13 +1,13 @@
 ### Fellas its :smile: Nitin :smile: here.. 👋
 **=====================================================================================**
 
-**-----------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------**
 ## I am a Data Scientist | Ml & DL| 
 
 ![picture](https://1.bp.blogspot.com/-FYDRV1fAcNk/YAU_khQw0iI/AAAAAAAAEdE/bZyU5seo4ospnb85PlEzlQDG2cB1l79vQCLcBGAsYHQ/s480/rt.gif)
 
 
-**----------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------**
 
 **=====================================================================================**
 - 🔭 I’m currently working as Freelancer
@@ -45,7 +45,8 @@
 ### 2- Financial Analysis (Using Bank Loan Data) [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/Financial%20analysis%20on%20bank%20loan%20data/Data_analytics_finance2(Bank_Loan)_Deploy.ipynb)
 ### 3- EDA(exploratory data analysis) on IMBd Movies Data [here](https://github.com/nitinbarolia/Data-Analysis/blob/master/EDA%20on%20movies%20data/Explanatory_Analysis_Movies.ipynb)
 ### Many more coming soon....
-
+### 4- Walmart Perfomance analysis [here]([https://github.com/nitinbarolia/Data-Analysis/blob/master/EDA%20on%20movies%20data/Explanatory_Analysis_Movies.ipynb](https://github.com/nitinbarolia/Walmart_Perfomance_Analysis.git))
+### Many more coming soon....
 **=====================================================================================**
 
 
