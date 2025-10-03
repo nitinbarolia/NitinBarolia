@@ -1,13 +1,13 @@
 ### Fellas its :smile: Nitin :smile: here.. 👋
 **=====================================================================================**
 
-**------------------------------------------------------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------**
 ## I am a Data Scientist | Ml & DL| 
 
 ![picture](https://1.bp.blogspot.com/-FYDRV1fAcNk/YAU_khQw0iI/AAAAAAAAEdE/bZyU5seo4ospnb85PlEzlQDG2cB1l79vQCLcBGAsYHQ/s480/rt.gif)
 
 
-**------------------------------------------------------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------**
 
 **=====================================================================================**
 - 🔭 I’m currently working as Freelancer
@@ -26,13 +26,12 @@
 
 
 
-**---------------------------------------------------------------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------**
 ## Skills I have...  ![picture](https://1.bp.blogspot.com/-4traOxUfscc/YAVIRhVWoYI/AAAAAAAAEd0/R9zaMuhdUSgzWxVmR238h2R3AaT-IHxcgCLcBGAsYHQ/s64/distance-education.png)
 
 #### Advanced MS Excel ![picture](https://1.bp.blogspot.com/-HdvwyppraDw/YAVJNt3YYHI/AAAAAAAAEeE/XwtWjY2rKpMzPePSBHzUnE3JCjd8UZ0xgCLcBGAsYHQ/s64/excel.png) PowerBI ![picture](https://1.bp.blogspot.com/-DGMCp7xmEF8/YAVNdQM9BxI/AAAAAAAAEe0/-bAuEtlHZ74eeJC7TacwY85HKPXomL0XgCLcBGAsYHQ/s96/power-bi%25287%2529.png) MySQL ![picture](https://1.bp.blogspot.com/-OmLoFibX7cI/YAVMypTqg-I/AAAAAAAAEes/wvqn0b4Xt1Uyn2ETMx86Duj9PMEliD_DwCLcBGAsYHQ/s100/mysql-logo.png) Python ![picture](https://1.bp.blogspot.com/-OaOB1Y6SsMM/YAVLSC3uuvI/AAAAAAAAEeQ/9CPFPEkuyqM4Q7jRxJiL2X0SxJgcJnGRQCLcBGAsYHQ/s96/python%252823%2529.png) Data Analysis ![picture](https://1.bp.blogspot.com/-itslZp7hhpI/YAVTnyiHspI/AAAAAAAAEfI/Ps8v1_yDVSIMLMyDhpOLABuhsDjeHvcGgCLcBGAsYHQ/s64/iconfinder_Analytics_379550.png)
 #### Data Visualisation ![picture](https://1.bp.blogspot.com/-4o3yfqd1FJ0/YAVVOPWo9AI/AAAAAAAAEfU/OF5RylildwABI_MiBatid07ed5Q4s3kjACLcBGAsYHQ/s96/statistics%25281%2529.png) Web Scrapping ![picture](https://1.bp.blogspot.com/-2DH-3nqlwpk/YAVXEf1-7xI/AAAAAAAAEfg/SFVZ1xrUyasM0gE80a43quTPX0NPUSWgwCLcBGAsYHQ/s72/web%252825%2529.png)
-**---------------------------------------------------------------------------------------------------------------------------------------**
-
+**--------------------------------------------------------------------------------------**
 
 
 **=====================================================================================**
@@ -50,11 +49,11 @@
 
 
 
-**-------------------------------------------------------------------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------**
 ## Python Programs Fun2Learn [here](https://github.com/nitinbarolia/Python-Programs) ![picture](https://1.bp.blogspot.com/-ZUhPk3iDhBA/YBgq8DqycWI/AAAAAAAAEgs/ocTKDrEBSvw4GL8PVFlsOWe6cydBLbI1ACLcBGAsYHQ/s150/python.jpg) 
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------**
 
 
 
